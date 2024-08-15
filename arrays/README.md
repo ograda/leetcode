@@ -4,7 +4,7 @@ This folder contains solutions to problems related to arrays.
 Arrays are a fundamental data structure in programming, allowing you to store and manage collections of elements efficiently.
 
 ### Solved Problems:
-- **[001_easy_two_sum.py](001_easy_two_sum.py)**: Find two numbers in an array that add up to a specific target.
+  **[860_Lemonade_Change](860_EASY_Lemonade_Change.ts)** - A basic Array/Greedy solution problem.
 - Additional problems will be added as I continue solving them.
 
 ### Key Concepts:

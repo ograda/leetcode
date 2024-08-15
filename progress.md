@@ -7,6 +7,7 @@ I will use the reverse order always putting most recent solved problems first.
 
 
 ### Week 2
+
 ### Day 8 (August 22 2024)
 - **Language**: Javascript
 - **Problems Solved**:
@@ -25,6 +26,7 @@ I will use the reverse order always putting most recent solved problems first.
 
 
 ### Week 1 
+
 ### Day 4 (August 18 2024)
 - **Language**: Rust
 - **Problems Solved**:
@@ -33,18 +35,14 @@ I will use the reverse order always putting most recent solved problems first.
 - **Language**: Go
 - **Problems Solved**:
 
-#### Day 2 (August 16 2024) FUTURE REFERENCE
+#### Day 2 (August 16 2024)
 - **Language**: Javascript
 - **Problems Solved**:
-  1. [002_medium_add_two_numbers.cpp](arrays/002_medium_add_two_numbers.cpp) - Worked on adding two numbers represented by linked lists.
-  2. [152_medium_maximum_product_subarray.cpp](dynamic_programming/152_medium_maximum_product_subarray.cpp) - Implemented a solution for finding the maximum product subarray.
-  3. [020_easy_valid_parentheses.cpp](strings/020_easy_valid_parentheses.cpp) - Checked for valid parentheses using a stack.
-
+ 
 #### Day 1 (August 15 2024)
 - **Language**: Typescript
 - **Problems Solved**:
-  1. [001_easy_two_sum.py](arrays/001_easy_two_sum.py) - A basic problem to find two numbers in an array that add up to a target value.
-  2. [053_easy_maximum_subarray.py](dynamic_programming/053_easy_maximum_subarray.py) - Solved the classic maximum subarray problem using dynamic programming.
-  3. [014_easy_longest_common_prefix.py](strings/014_easy_longest_common_prefix.py) - Implemented a function to find the longest common prefix among a list of strings.
-
+  1. [860_Lemonade_Change](arrays/860_EASY_Lemonade_Change.ts) - A basic Array/Greedy solution problem.
+  2. [2678_Number_of_Senior_Citizens](strings/2678_EASY_Number_of_Senior_Citizens.ts) - A basic string manipulation solution problem.
+  3. [070_Climbing_Stairs](dynamic_programming/070_EASY_Climbing_Stairs.ts) - A basic math and dinamic programing problem, fibbonaci
 
