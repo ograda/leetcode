@@ -141,7 +141,6 @@ out/
 *.preferences
 *.tmp
 *.tmproj
-*.ts
 
 # SASS
 .sass-cache/
