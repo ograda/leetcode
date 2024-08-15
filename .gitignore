@@ -1,0 +1,154 @@
+# General
+.DS_Store
+Thumbs.db
+
+# C++
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.dSYM/
+*.d
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.suo
+*.log
+*.lock
+*.classpath
+*.project
+*.settings/
+target/
+bin/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+*.pkl
+*.pyproj
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.pytest_cache/
+*.tox/
+htmlcov/
+.mypy_cache/
+.pyre/
+.pytype/
+.ipynb_checkpoints
+
+# JavaScript/TypeScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Go
+*.exe
+*.out
+*.test
+*.mod
+*.sum
+*.a
+
+# Rust
+target/
+Cargo.lock
+*.rlib
+
+# Editor & IDE Specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.sln.docstates
+*.swp
+*.swo
+*.bak
+*.orig
+*.mode1v3
+*.mode2v3
+*.nib
+*.pbxuser
+*.perspectivev3
+*.xcuserstate
+*.xccheckout
+*.hmap
+*.ipa
+*.xcuserdata
+*.lldb
+*.moved-aside
+*.xcuserdatad
+*.d
+*.i
+*.ll
+*.lo
+*.o
+*.obj
+*.pyc
+*.pyo
+*.rej
+*.so
+*.log
+
+# JetBrains IDEs
+*.iml
+.idea/
+*.iws
+*.ipr
+out/
+
+# Others
+*.lock
+*.tmp
+*.temp
+*.swp
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.class
+*.jpf
+*.launch
+*.metadata/
+*.class
+*.preferences
+*.tmp
+*.tmproj
+*.ts
+
+# SASS
+.sass-cache/
+.sass-cache
+
+# VS Code Extensions
+.vscode/extensions.json
+
+# Rust packages
+Cargo.lock
