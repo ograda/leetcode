@@ -34,6 +34,10 @@ I will use the reverse order always putting most recent solved problems first.
 #### Day 3 (August 17 2024)
 - **Language**: Go
 - **Problems Solved**:
+  1. [931_Minimum_Falling_Path_Sum](dynamic_programming/931_MEDIUM_Minimum_Falling_Path_Sum.go) - a Dinammic programming implemented backwards, with no recursion
+  2. [1014_Best_Sightseeing_Pair](arrays/1014_MEDIUM_Best_Sightseeing_Pair.go) - A simple array math approach to a dinamic program problem
+  3. [1937_Maximum_Number_of_Points_with_Cost](dynamic_programming/1937_MEDIUM_Maximum_Number_of_Points_with_Cost.go) - To leave the o(n^3) we have to do a two comparison temp arrays 
+
 
 #### Day 2 (August 16 2024)
 - **Language**: Javascript
