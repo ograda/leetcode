@@ -30,7 +30,10 @@ I will use the reverse order always putting most recent solved problems first.
 ### Day 4 (August 18 2024)
 - **Language**: Rust
 - **Problems Solved**:
-
+  1. [264_Ugly_Number_II](dynamic_programming/264_MEDIUM_Ugly_Number_II.rs) - A dinammic programming with three comparing indices
+  2. [263_Ugly_Number](math/263_EASY_Ugly_Number.rs) - A math solution to answer if a number is a uggly number
+  3. [202_Happy_Number](math/202_EASY_Happy_Number.rs) - A math solution to answer if a number is a happy number
+  
 #### Day 3 (August 17 2024)
 - **Language**: Go
 - **Problems Solved**:
