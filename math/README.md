@@ -7,6 +7,7 @@ Math problems often require finding patterns, using formulas, or implementing ef
 ### Solved Problems:
  **[263_Ugly_Number](263_EASY_Ugly_Number.rs)** - A math solution to answer if a number is a uggly number  
  **[202_Happy_Number](202_EASY_Happy_Number.rs)** - A math solution to answer if a number is a happy number  
+ **[991_Broken Calculator](991_MEDIUM_Broken Calculator.py)** - A greedy math soution for a two operation problem
 
 ### Key Concepts:
 - **Prime Factorization**
