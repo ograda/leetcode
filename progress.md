@@ -15,19 +15,23 @@ I will use the reverse order always putting most recent solved problems first.
 #### Day 7 (August 21 2024)
 - **Language**: Java
 - **Problems Solved**:
+  1. [664_Strange_Printer](dinamic_programming/664_HARD_Strange_Printer.java) - a dinammic programming solution for a substring problem, tried the greed approach but it wasnt enough for the edge cases  
+  2. [703_Kth_Largest_Element_in_a_Stream](trees/703_EASY_Kth_Largest_Element_in_a_Stream.java) - a priority queue to find the kth largest number on a stream  
+  3. [2053_Kth_Distinct_String_in_an_rray](arrays/2053_EASY_Kth_Distinct_String_in_an_rray.java) - a string manipulation problem with a arry for comparing  
+
 
 #### Day 6 (August 20 2024)
 - **Language**: C++
 - **Problems Solved**:
-  1. [1140_Stone_Game_II](dinamic_programming/1140_MEDIUM_Stone_Game_II.cpp) - a dinammic programming solution for to come up the best way a game can be played instead of bruteforcing
-  2. [877_Stone_Game](dinamic_programming/877_MEDIUM_Stone_Game.cpp) - a slight alteration on the last solution
-  3. [1690_Stone_Game_VII](dinamic_programming/1690_MEDIUM_Stone_Game_VII.cpp) - A bit more complex implementation of the last algorithm
+  1. [1140_Stone_Game_II](dinamic_programming/1140_MEDIUM_Stone_Game_II.cpp) - a dinammic programming solution for to come up the best way a game can be played instead of bruteforcing  
+  2. [877_Stone_Game](dinamic_programming/877_MEDIUM_Stone_Game.cpp) - a slight alteration on the last solution  
+  3. [1690_Stone_Game_VII](dinamic_programming/1690_MEDIUM_Stone_Game_VII.cpp) - A bit more complex implementation of the last algorithm  
   
 #### Day 5 (August 19 2024)
 - **Language**: Python
 - **Problems Solved**:
-  1. [650_2_Keys_Keyboard](arrays/650_MEDIUM_2_Keys_Keyboard.py) - A originally tough as arrays but actually a math problem, its array solution is more space consuming
-  2. [991_Broken Calculator](math/991_MEDIUM_Broken Calculator.py) - A greedy math soution for a two operation problem
+  1. [650_2_Keys_Keyboard](arrays/650_MEDIUM_2_Keys_Keyboard.py) - A originally tough as arrays but actually a math problem, its array solution is more space consuming  
+  2. [991_Broken Calculator](math/991_MEDIUM_Broken Calculator.py) - A greedy math soution for a two operation problem  
   3. [100_Same_Tre](trees/100_EASY_Same_Tree.py) - A tree traversal solution to check if two binary trees are the same.  
 
 ### Week 1 

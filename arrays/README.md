@@ -7,9 +7,10 @@ Arrays are a fundamental data structure in programming, allowing you to store an
   **[860_Lemonade_Change](860_EASY_lemonade_change.ts)** - A basic Array/Greedy solution problem.  
   **[624_Maximum_Distance_in_Arrays](624_MEDIUM_Maximum_Distance_in_Arrays.js)** - Another Greedy solution.  
   **[2134_Minimum_Swaps_to_Group_All_1's_Together_II](2134_MEDIUM_Minimum_Swaps_to_Group_All_1's_Together_II.js)** - A Sliding window and circular array problem  
-  **[1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays](1460_EASY_Make_Two_Arrays_Equal_by_Reversing_Subarrays.js)** - A simple sorting arrays / hashmap problem    
-  **[1014_Best_Sightseeing_Pair](arrays/1014_MEDIUM_Best_Sightseeing_Pair.go)** - A simple array math approach to a dinamic program problem
-  **[650_2_Keys_Keyboard](650_MEDIUM_2_Keys_Keyboard.py)** - A originally tough as arrays but actually a math problem, its array solution is more space consuming
+  **[1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays](1460_EASY_Make_Two_Arrays_Equal_by_Reversing_Subarrays.js)** - A simple sorting arrays / hashmap problem  
+  **[1014_Best_Sightseeing_Pair](arrays/1014_MEDIUM_Best_Sightseeing_Pair.go)** - A simple array math approach to a dinamic program problem  
+  **[650_2_Keys_Keyboard](650_MEDIUM_2_Keys_Keyboard.py)** - A originally tough as arrays but actually a math problem, its array solution is more space consuming  
+  **[2053_Kth_Distinct_String_in_an_rray](2053_EASY_Kth_Distinct_String_in_an_rray.java)** - a string manipulation problem with a arry for comparing  
 
 ### Key Concepts:
 - **Indexing**
