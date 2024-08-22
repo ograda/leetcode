@@ -11,6 +11,10 @@ I will use the reverse order always putting most recent solved problems first.
 ### Day 8 (August 22 2024)
 - **Language**: Javascript
 - **Problems Solved**:
+  1. [476_Number_Complement](bits/476_EASY_Number_Complement.js) - An easy bit flip solution  
+  2. [1009_Complement_of_Base_10_Integer](bits/1009_EASY_Complement_of_Base_10_Integer.js) - Same problem as before but with a few different implementations  
+  3. [997_Find_the_own_Judge](graphs/997_EASY_Find_the_own_Judge.js) - originally tought as a graphs approach but a simple hash map should be enough  
+
 
 #### Day 7 (August 21 2024)
 - **Language**: Java
@@ -31,7 +35,7 @@ I will use the reverse order always putting most recent solved problems first.
 - **Language**: Python
 - **Problems Solved**:
   1. [650_2_Keys_Keyboard](arrays/650_MEDIUM_2_Keys_Keyboard.py) - A originally tough as arrays but actually a math problem, its array solution is more space consuming  
-  2. [991_Broken Calculator](math/991_MEDIUM_Broken Calculator.py) - A greedy math soution for a two operation problem  
+  2. [991_Broken Calculator](math/991_MEDIUM_Broken_Calculator.py) - A greedy math soution for a two operation problem  
   3. [100_Same_Tre](trees/100_EASY_Same_Tree.py) - A tree traversal solution to check if two binary trees are the same.  
 
 ### Week 1 
