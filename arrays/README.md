@@ -11,6 +11,8 @@ Arrays are a fundamental data structure in programming, allowing you to store an
   **[1014_Best_Sightseeing_Pair](arrays/1014_MEDIUM_Best_Sightseeing_Pair.go)** - A simple array math approach to a dinamic program problem  
   **[650_2_Keys_Keyboard](650_MEDIUM_2_Keys_Keyboard.py)** - A originally tough as arrays but actually a math problem, its array solution is more space consuming  
   **[2053_Kth_Distinct_String_in_an_rray](2053_EASY_Kth_Distinct_String_in_an_rray.java)** - a string manipulation problem with a arry for comparing  
+  **[1636_Sort_Array_by_Increasing_Frequency](arrays/1636_EASY_Sort_Array_by_Increasing_Frequency.ts)** - A hashmap problem.  
+  **[2418_Sort_the_People](arrays/2418_EASY_Sort_the_People.ts)** - A simple sorting problem.  
 
 ### Key Concepts:
 - **Indexing**

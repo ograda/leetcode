@@ -6,6 +6,17 @@ I will use the reverse order always putting most recent solved problems first.
 ## AUGUST 2024 (3 problems solved)
 
 
+### Week 3
+
+
+  
+#### Day 9 (August 23 2024)
+- **Language**: Typescript
+- **Problems Solved**:
+  1. [592_Fraction_Addition_and_Subtraction](strings/592_MEDIUM_Fraction_Addition_and_Subtraction.ts) - A string match and math problem  
+  2. [1636_Sort_Array_by_Increasing_Frequency](arrays/1636_EASY_Sort_Array_by_Increasing_Frequency.ts) - A hashmap problem.  
+  3. [2418_Sort_the_People](arrays/2418_EASY_Sort_the_People.ts) - A simple sorting problem.  
+
 ### Week 2
 
 ### Day 8 (August 22 2024)
