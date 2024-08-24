@@ -13,6 +13,8 @@ Arrays are a fundamental data structure in programming, allowing you to store an
   **[2053_Kth_Distinct_String_in_an_rray](2053_EASY_Kth_Distinct_String_in_an_rray.java)** - a string manipulation problem with a arry for comparing  
   **[1636_Sort_Array_by_Increasing_Frequency](arrays/1636_EASY_Sort_Array_by_Increasing_Frequency.ts)** - A hashmap problem.  
   **[2418_Sort_the_People](arrays/2418_EASY_Sort_the_People.ts)** - A simple sorting problem.  
+  **[2215_Find_the_Difference_of_Two_Arrays](arrays/2215_EASY_Find_the_Difference_of_Two_Arrays.js)** - Hash solution with a binary diferenciation to improve memory usage  
+  **[349_Intersection_of_Two_Arrays](arrays/349_EASY_Intersection_of_Two_Arrays.js)** - The same solution as the last problem but intersecting instead of diferenciation  
 
 ### Key Concepts:
 - **Indexing**

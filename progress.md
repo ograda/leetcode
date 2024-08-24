@@ -9,6 +9,12 @@ I will use the reverse order always putting most recent solved problems first.
 ### Week 3
 
 
+#### Day 2 (August 16 2024)
+- **Language**: Javascript
+- **Problems Solved**:
+  1. [564_Find_the_Closest_Palindrome](math/564_HARD_Find_the_Closest_Palindrome.js) - thats a math solution that required a pattern approach  
+  2. [2215_Find_the_Difference_of_Two_Arrays](arrays/2215_EASY_Find_the_Difference_of_Two_Arrays.js) - Hash solution with a binary diferenciation to improve memory usage  
+  3. [349_Intersection_of_Two_Arrays](arrays/349_EASY_Intersection_of_Two_Arrays.js) - The same solution as the last problem but intersecting instead of diferenciation  
   
 #### Day 9 (August 23 2024)
 - **Language**: Typescript
