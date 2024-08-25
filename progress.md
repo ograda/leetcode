@@ -8,8 +8,14 @@ I will use the reverse order always putting most recent solved problems first.
 
 ### Week 3
 
+#### Day 11 (August 25 2024)
+- **Language**: Go
+- **Problems Solved**:
+  1. [145_Binary_Tree_Postorder_Traversal](trees/145_EASY_Binary_Tree_Postorder_Traversal.go) - return the inversal order of a tree  
+  2. [590_N-ary_Tree_Postorder_Traversal](trees/590_EASY_N-ary_Tree_Postorder_Traversal.go) - a slightly different from the last problem, now the tree has different implementation  
+  3. [94_Binary_Tree_Inorder_Traversal](trees/94_EASY_Binary_Tree_Inorder_Traversal.go) - An approach that takes some from both before  
 
-#### Day 2 (August 16 2024)
+#### Day 10 (August 24 2024)
 - **Language**: Javascript
 - **Problems Solved**:
   1. [564_Find_the_Closest_Palindrome](math/564_HARD_Find_the_Closest_Palindrome.js) - thats a math solution that required a pattern approach  
