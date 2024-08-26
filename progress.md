@@ -8,6 +8,13 @@ I will use the reverse order always putting most recent solved problems first.
 
 ### Week 3
 
+### Day 12 (August 26 2024)
+- **Language**: Rust
+- **Problems Solved**:
+  1. [9_Palindrome_Number](math/9_EASY_Palindrome_Number.rs) - A simnple reverse number and compare approach  
+  2. [1_Two_Sum](arrays/1_EASY_Two_Sum.rs) - A math and hash solution to find the numberssummed to get to another one  
+  3. [2_Add_Two_Numbers](linked_lists/2_EASY_Add_Two_Numbers.rs) - A traveling trough linked lists creating a new list, Note that the hard part is the problem boundaries  
+
 #### Day 11 (August 25 2024)
 - **Language**: Go
 - **Problems Solved**:

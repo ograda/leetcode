@@ -15,6 +15,7 @@ Arrays are a fundamental data structure in programming, allowing you to store an
   **[2418_Sort_the_People](arrays/2418_EASY_Sort_the_People.ts)** - A simple sorting problem.  
   **[2215_Find_the_Difference_of_Two_Arrays](arrays/2215_EASY_Find_the_Difference_of_Two_Arrays.js)** - Hash solution with a binary diferenciation to improve memory usage  
   **[349_Intersection_of_Two_Arrays](arrays/349_EASY_Intersection_of_Two_Arrays.js)** - The same solution as the last problem but intersecting instead of diferenciation  
+  **[1_Two_Sum](arrays/1_EASY_Two_Sum.rs)** - A math and hash solution to find the numberssummed to get to another one  
 
 ### Key Concepts:
 - **Indexing**
