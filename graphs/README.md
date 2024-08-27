@@ -6,7 +6,8 @@ Graph problems often involve exploring nodes and edges, finding paths, and under
 
 ### Solved Problems:
 **[997_Find_the_own_Judge](997_EASY_Find_the_own_Judge.js)** - originally tought as a graphs approach but a simple hash map should be enough  
-
+**[1514_Path_with_Maximum_Probability](1514_MEDIUM_Path_with_Maximum_Probability.cpp)** - A modified djinkstra algorithm so we can work probabilities instead of costs  
+  
 ### Key Concepts:
 - **Graph Traversals (BFS, DFS)**
 - **Shortest Path Algorithms (Dijkstra, Bellman-Ford)**

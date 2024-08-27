@@ -8,12 +8,22 @@ I will use the reverse order always putting most recent solved problems first.
 
 ### Week 3
 
+#### Day 13 (August 27 2024)
+- **Language**: C++
+- **Problems Solved**:
+  1. [1514_Path_with_Maximum_Probability](graphs/1514_MEDIUM_Path_with_Maximum_Probability.cpp) - A modified djinkstra algorithm so we can work probabilities instead of costs  
+  2. [4_Median_of_Two_Sorted_Arrays](arrays/4_HARD_Median_of_Two_Sorted_Arrays.cpp) - A binary search with also an easier approach to solve the median problem  
+  3. [3_Longest_Substring_Without_Repeating_Characters](strings/3_MEDIUM_Longest_Substring_Without_Repeating_Characters.cpp) - A direct approach instead of a string manipulation  
+  
 ### Day 12 (August 26 2024)
 - **Language**: Rust
 - **Problems Solved**:
   1. [9_Palindrome_Number](math/9_EASY_Palindrome_Number.rs) - A simnple reverse number and compare approach  
   2. [1_Two_Sum](arrays/1_EASY_Two_Sum.rs) - A math and hash solution to find the numberssummed to get to another one  
   3. [2_Add_Two_Numbers](linked_lists/2_EASY_Add_Two_Numbers.rs) - A traveling trough linked lists creating a new list, Note that the hard part is the problem boundaries  
+
+
+### Week 2
 
 #### Day 11 (August 25 2024)
 - **Language**: Go
@@ -36,8 +46,6 @@ I will use the reverse order always putting most recent solved problems first.
   2. [1636_Sort_Array_by_Increasing_Frequency](arrays/1636_EASY_Sort_Array_by_Increasing_Frequency.ts) - A hashmap problem.  
   3. [2418_Sort_the_People](arrays/2418_EASY_Sort_the_People.ts) - A simple sorting problem.  
 
-### Week 2
-
 ### Day 8 (August 22 2024)
 - **Language**: Javascript
 - **Problems Solved**:
@@ -45,14 +53,12 @@ I will use the reverse order always putting most recent solved problems first.
   2. [1009_Complement_of_Base_10_Integer](bits/1009_EASY_Complement_of_Base_10_Integer.js) - Same problem as before but with a few different implementations  
   3. [997_Find_the_own_Judge](graphs/997_EASY_Find_the_own_Judge.js) - originally tought as a graphs approach but a simple hash map should be enough  
 
-
 #### Day 7 (August 21 2024)
 - **Language**: Java
 - **Problems Solved**:
   1. [664_Strange_Printer](dinamic_programming/664_HARD_Strange_Printer.java) - a dinammic programming solution for a substring problem, tried the greed approach but it wasnt enough for the edge cases  
   2. [703_Kth_Largest_Element_in_a_Stream](trees/703_EASY_Kth_Largest_Element_in_a_Stream.java) - a priority queue to find the kth largest number on a stream  
   3. [2053_Kth_Distinct_String_in_an_rray](arrays/2053_EASY_Kth_Distinct_String_in_an_rray.java) - a string manipulation problem with a arry for comparing  
-
 
 #### Day 6 (August 20 2024)
 - **Language**: C++
@@ -67,6 +73,7 @@ I will use the reverse order always putting most recent solved problems first.
   1. [650_2_Keys_Keyboard](arrays/650_MEDIUM_2_Keys_Keyboard.py) - A originally tough as arrays but actually a math problem, its array solution is more space consuming  
   2. [991_Broken Calculator](math/991_MEDIUM_Broken_Calculator.py) - A greedy math soution for a two operation problem  
   3. [100_Same_Tre](trees/100_EASY_Same_Tree.py) - A tree traversal solution to check if two binary trees are the same.  
+
 
 ### Week 1 
 
@@ -83,7 +90,6 @@ I will use the reverse order always putting most recent solved problems first.
   1. [931_Minimum_Falling_Path_Sum](dynamic_programming/931_MEDIUM_Minimum_Falling_Path_Sum.go) - a Dinammic programming implemented backwards, with no recursion
   2. [1014_Best_Sightseeing_Pair](arrays/1014_MEDIUM_Best_Sightseeing_Pair.go) - A simple array math approach to a dinamic program problem
   3. [1937_Maximum_Number_of_Points_with_Cost](dynamic_programming/1937_MEDIUM_Maximum_Number_of_Points_with_Cost.go) - To leave the o(n^3) we have to do a two comparison temp arrays 
-
 
 #### Day 2 (August 16 2024)
 - **Language**: Javascript
