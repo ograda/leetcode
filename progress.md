@@ -8,6 +8,13 @@ I will use the reverse order always putting most recent solved problems first.
 
 ### Week 3
 
+#### Day 7 (August 28 2024)
+- **Language**: Java
+- **Problems Solved**:
+  1. [1905_Count_Sub_Islands](arrays/1905_MEDIUM_Count_Sub_Islands.java) - A dfs solution toi find subislands in an array  
+  2. [13_Roman_to_Integer](string/13_EASY_Roman_to_Integer.java) - A dictionary problem  
+  3. [14_Longest_Common_Prefix](string/14_EASY_Longest_Common_Prefix.java) - A multi string comparison problem  
+  
 #### Day 13 (August 27 2024)
 - **Language**: C++
 - **Problems Solved**:
